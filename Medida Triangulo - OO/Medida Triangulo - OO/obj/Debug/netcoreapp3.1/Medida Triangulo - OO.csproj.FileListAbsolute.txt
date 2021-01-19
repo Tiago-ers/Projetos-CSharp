@@ -1,0 +1,13 @@
+C:\Users\cliente\Documents\Udemy\C#\Medida Triangulo - OO\Medida Triangulo - OO\bin\Debug\netcoreapp3.1\Medida Triangulo - OO.exe
+C:\Users\cliente\Documents\Udemy\C#\Medida Triangulo - OO\Medida Triangulo - OO\bin\Debug\netcoreapp3.1\Medida Triangulo - OO.deps.json
+C:\Users\cliente\Documents\Udemy\C#\Medida Triangulo - OO\Medida Triangulo - OO\bin\Debug\netcoreapp3.1\Medida Triangulo - OO.runtimeconfig.json
+C:\Users\cliente\Documents\Udemy\C#\Medida Triangulo - OO\Medida Triangulo - OO\bin\Debug\netcoreapp3.1\Medida Triangulo - OO.runtimeconfig.dev.json
+C:\Users\cliente\Documents\Udemy\C#\Medida Triangulo - OO\Medida Triangulo - OO\bin\Debug\netcoreapp3.1\Medida Triangulo - OO.dll
+C:\Users\cliente\Documents\Udemy\C#\Medida Triangulo - OO\Medida Triangulo - OO\bin\Debug\netcoreapp3.1\Medida Triangulo - OO.pdb
+C:\Users\cliente\Documents\Udemy\C#\Medida Triangulo - OO\Medida Triangulo - OO\obj\Debug\netcoreapp3.1\Medida Triangulo - OO.csprojAssemblyReference.cache
+C:\Users\cliente\Documents\Udemy\C#\Medida Triangulo - OO\Medida Triangulo - OO\obj\Debug\netcoreapp3.1\Medida Triangulo - OO.AssemblyInfoInputs.cache
+C:\Users\cliente\Documents\Udemy\C#\Medida Triangulo - OO\Medida Triangulo - OO\obj\Debug\netcoreapp3.1\Medida Triangulo - OO.AssemblyInfo.cs
+C:\Users\cliente\Documents\Udemy\C#\Medida Triangulo - OO\Medida Triangulo - OO\obj\Debug\netcoreapp3.1\Medida Triangulo - OO.csproj.CoreCompileInputs.cache
+C:\Users\cliente\Documents\Udemy\C#\Medida Triangulo - OO\Medida Triangulo - OO\obj\Debug\netcoreapp3.1\Medida Triangulo - OO.dll
+C:\Users\cliente\Documents\Udemy\C#\Medida Triangulo - OO\Medida Triangulo - OO\obj\Debug\netcoreapp3.1\Medida Triangulo - OO.pdb
+C:\Users\cliente\Documents\Udemy\C#\Medida Triangulo - OO\Medida Triangulo - OO\obj\Debug\netcoreapp3.1\Medida Triangulo - OO.genruntimeconfig.cache
